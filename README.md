@@ -12,8 +12,15 @@
   <li><strong>Validation:</strong> Ensure accurate and valid data entries.</li>
 </ul>
 
-![Task Management Screenshot](Images/Task%20Management%20-%20localhost%2001.png)
+## Images
 
+<p>Here are some screenshots of the application:</p>
+
+<!-- Main Screenshot -->
+<img src="Images/Task%20Management%20-%20localhost%2001.png" alt="Task Management Screenshot" style="max-width: 100%; height: auto;"/>
+
+<!-- Add more images as needed -->
+<!-- <img src="path/to/another/image.png" alt="Description" style="max-width: 100%; height: auto;"/> -->
 
 ## Endpoints
 
@@ -76,6 +83,8 @@ mvn spring-boot:run</code></pre>
 
 ## License
 
-<hr>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
+## Contact
 
+<p>For any inquiries or issues, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
