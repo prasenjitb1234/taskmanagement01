@@ -1,0 +1,13 @@
+package com.task.TaskManageTry;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TaskManageTryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TaskManageTryApplication.class, args);
+	}
+
+}
