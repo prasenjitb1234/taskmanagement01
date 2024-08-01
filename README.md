@@ -2,7 +2,7 @@
 
 ## Overview
 
-<p>This is a task management web application designed to streamline the management of tasks. Built using Java with the Spring Boot framework, JPA for data persistence, Thymeleaf for server-side rendering, and MySQL as the database, this application provides a user-friendly interface to perform basic CRUD (Create, Read, Update, Delete) operations on tasks. The application also incorporates validation mechanisms to ensure data integrity.</p>
+<p>This is a task management web application designed to streamline the management of tasks. Built using Java with the Spring Boot framework, JPA for data persistence, Thymeleaf for server-side rendering, and MySQL as the database, this application provides a user-friendly interface to perform  CRUD (Create, Read, Update, Delete) operations on tasks. The application also incorporates validation mechanisms to ensure data integrity.</p>
 
 ## Features
 
@@ -20,7 +20,17 @@
 <img src="Images/Task%20Management%20-%20localhost%2001.png" alt="Task Management Screenshot" style="max-width: 100%; height: auto;"/>
 
 <!-- Add more images as needed -->
-<!-- <img src="path/to/another/image.png" alt="Description" style="max-width: 100%; height: auto;"/> -->
+
+<img src="Images/Task%20Management%20-%20localhost%2002.png" alt="Task Management Screenshot" style="max-width: 100%; height: auto;"/>
+
+<img src="Images/Task%20Management%20TaskList%20-%20localhost%2006.png" alt="Task List Screenshot" style="max-width: 100%; height: auto;"/>
+
+## Dashboard
+<img src="Images/Task%20Management%20Dashboard%20-%20localhost%2004.png" alt="Dashboard Screenshot" style="max-width: 100%; height: auto;"/>
+
+## Add Task
+<img src="Images/Task%20Management%20Add%20Task%20-%20localhost%2005.png" alt="Add Task Screenshot" style="max-width: 100%; height: auto;"/>
+
 
 ## Endpoints
 
@@ -81,10 +91,4 @@ mvn spring-boot:run</code></pre>
 
 <p>If you wish to contribute to this project, please fork the repository, create a feature branch, and submit a pull request. Ensure that your contributions are well-documented and tested.</p>
 
-## License
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-## Contact
-
-<p>For any inquiries or issues, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
