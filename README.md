@@ -20,16 +20,21 @@
 <img src="Images/Task%20Management%20-%20localhost%2001.png" alt="Task Management Screenshot" style="max-width: 100%; height: auto;"/>
 
 <!-- Add more images as needed -->
-
+## Login
 <img src="Images/Task%20Management%20-%20localhost%2002.png" alt="Task Management Screenshot" style="max-width: 100%; height: auto;"/>
-
-<img src="Images/Task%20Management%20TaskList%20-%20localhost%2006.png" alt="Task List Screenshot" style="max-width: 100%; height: auto;"/>
 
 ## Dashboard
 <img src="Images/Task%20Management%20Dashboard%20-%20localhost%2004.png" alt="Dashboard Screenshot" style="max-width: 100%; height: auto;"/>
 
 ## Add Task
 <img src="Images/Task%20Management%20Add%20Task%20-%20localhost%2005.png" alt="Add Task Screenshot" style="max-width: 100%; height: auto;"/>
+
+## Task List
+<img src="Images/Task%20Management%20TaskList%20-%20localhost%2006.png" alt="Task List Screenshot" style="max-width: 100%; height: auto;"/>
+
+
+<hr>
+
 
 
 ## Endpoints
@@ -39,6 +44,8 @@
   <li><strong>Register Task Admin:</strong> <a href="http://localhost:8080/registertaskadmin">http://localhost:8080/registertaskadmin</a></li>
   <li><strong>Admin Login:</strong> <a href="http://localhost:8080/adminlogin">http://localhost:8080/adminlogin</a></li>
 </ul>
+
+<hr>
 
 ## Getting Started
 
@@ -56,7 +63,7 @@
 
 <ol>
   <li><strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/yourusername/your-repository.git</code></pre>
+    <pre><code>git clone https://github.com/prasenjitb1234/taskmanagement01.git</code></pre>
   </li>
   <li><strong>Navigate to the project directory:</strong>
     <pre><code>cd your-repository</code></pre>
@@ -87,8 +94,9 @@ mvn spring-boot:run</code></pre>
   </li>
 </ol>
 
-## Contributing
+<hr>
 
-<p>If you wish to contribute to this project, please fork the repository, create a feature branch, and submit a pull request. Ensure that your contributions are well-documented and tested.</p>
+
+
 
 
