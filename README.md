@@ -12,7 +12,8 @@
   <li><strong>Validation:</strong> Ensure accurate and valid data entries.</li>
 </ul>
 
-![Application Screenshot](images/Task Management - localhost 01.png)
+![Task Management Screenshot](taskmanagement01/Images/Task%20Management%20-%20localhost%2001.png)
+
 
 ## Endpoints
 
