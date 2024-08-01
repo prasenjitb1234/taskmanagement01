@@ -12,6 +12,8 @@
   <li><strong>Validation:</strong> Ensure accurate and valid data entries.</li>
 </ul>
 
+![Application Screenshot](images/Task Management - localhost 01.png)
+
 ## Endpoints
 
 <ul>
@@ -73,6 +75,6 @@ mvn spring-boot:run</code></pre>
 
 ## License
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<hr>
 
 
